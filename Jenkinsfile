@@ -21,7 +21,7 @@ pipeline {
         stage('Descr') {
             steps {
                 echo 'Hyuderabad'
-                echo 'Suncccccity'
+                echo 'Sccccity'
                 echo 'Hyuderabad'
                 echo 'Suniiiiiity'
               
