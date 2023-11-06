@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Pavan kalyan bakkani'
+                echo 'Pavkalyan bakkani'
                 echo 'Brieey'
                 echo 'Nneey'
                 echo 'Briyyey'
