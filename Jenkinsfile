@@ -10,7 +10,7 @@ pipeline {
             steps {
                 echo 'Pavan kalyan bakkani'
                 echo 'Bridr, eey'
-                echo 'Brekk Nneey'
+                echo 'Bkk Nneey'
                 echo 'BriyKKKKKyey'
                 
               
